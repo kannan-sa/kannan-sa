@@ -20,6 +20,9 @@ Here on my GitHub, you'll find a collection of projects/screenshots that showcas
 * [Level setup using Beizer tools](docs/level_setup/level_setup.md).
 
 ### 🎯 Skills
+* Clean Code
+* Clean Architecture
+* Component Principles
 * SOLID Principles
 * Design Pattern
 * Data Structures and Algorithms
