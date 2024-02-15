@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Kannan, a passionate and Senior Game Developer
 As a Senior Game Developer, I have honed my skills in all phases of game development, from concept to release. My expertise lies in designing and implementing gameplay mechanics, optimizing performance, and leveraging cutting-edge technologies to craft captivating games. I am well-versed in multiple programming languages, including C++, **C#**, JavaScript and Python, and have hands-on experience with renowned game engines such as **Unity** and Unreal Engine.
 
 ### 🔥 My Contributions
-* **Extended** the **xNode flow graph** for game template tool in unity to **build 1000's** of distinct activity **games**.
+* **Extended** the **xNode flow graph** for game play template tool in unity to **build 1000's** of distinct activity **games**.
 * **Created** decision making character/system setup tools like **decision tree** and **behaviour tree** from scrach using unity editor tools.
 * **Optimized** game **performance** through profiling and implementing efficient **algorithms**, resulting in seamless gameplay experiences.
 * **Collaborated** with talented **artists, designers**, and audio engineers to create visually **stunning** and immersive **game** levels.
@@ -18,6 +18,7 @@ Here on my GitHub, you'll find a collection of projects/screenshots that showcas
 * [Game Play setup using Flow Graph template](docs/game_template/game_template.md).
 * [Character setup using Decision/Behavior tree](docs/character_setup/character_setup.md).
 * [Level setup using Beizer tools](docs/level_setup/level_setup.md).
+* [UI animation with Game Feel](docs/ui_animation/ui_animation.md).
 
 ### 🎯 Skills
 * Clean Code
