@@ -14,6 +14,7 @@ As a Senior Game Developer, I have honed my skills in all phases of game develop
 ### 🚀 Work Samples
 Here on my GitHub, you'll find a collection of projects/screenshots that showcase my technical skills and creativity in game development. From small prototypes to larger-scale games, each tool reflects my passion for creating memorable gaming experiences. I am always open to collaboration and eager to contribute to exciting projects that align with my expertise.
 
+* [Gameplay Architect: Crafting Dynamics with Behavior Editor](docs/gameplay_demo/gameplay_building.md).
 * [Game Configuration setup using Unity editors](docs/gameconfig_setup/gameconfig.md).
 * [Game Play setup using Flow Graph template](docs/game_template/game_template.md).
 * [Character setup using Decision/Behavior tree](docs/character_setup/character_setup.md).
