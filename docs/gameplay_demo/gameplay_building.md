@@ -5,9 +5,9 @@
 * Implemented game-specific events, conditions, and actions through meticulous extensions, enriching gameplay with tailored experiences and interactions..
 * Outlined a comprehensive example for designing player character behavior, demonstrating proficiency in creating intricate behavioral sequences to enrich gameplay dynamics.
 
-![Sample](videos/BehaviourDesign.gif) 
+![Sample](Videos/BehaviourDesign.gif) 
 
 ## Sample 
 * Implemented instantaneous player movement and crouch functionality through streamlined input action events, enhancing player control and immersion within the game environment.
 
-![Sample](videos/GamePlay.gif) 
+![Sample](Videos/GamePlay.gif) 
